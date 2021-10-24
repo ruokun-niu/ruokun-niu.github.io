@@ -1,15 +1,13 @@
-## Ruokun (Tommy) Niu
+I am a 
 
-You can use the [editor on GitHub](https://github.com/ruokun-niu/ruokun-niu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
+### Georgia Institute of Technology
+<p align="right">Bachelor of Science in Computer Science</p>
+<p align="right">Major GPA: 4.0/4.0, Cumulative GPA:3.93/4.0 </p>
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block 
 
 # Header 1
 ## Header 2
