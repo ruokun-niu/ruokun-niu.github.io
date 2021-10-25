@@ -1,5 +1,13 @@
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ruokun-tommy-niu-128466155/)
-&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruokun-tommy-niu-128466155/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>  
+  <a href="https://github.com/ruokun-niu" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a> 
+  <a href="mailto:ruokunniu@gmail.com"> ruokunniu@gmail.com</a>
+  <a> +1(470)-232-5128</a>
+</p>
 
 ## Education
 ### Georgia Institute of Technology
