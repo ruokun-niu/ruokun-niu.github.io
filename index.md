@@ -8,6 +8,9 @@
   <a href="mailto:ruokunniu@gmail.com"> ruokunniu@gmail.com</a>&nbsp; 
   <a> +1(470)-232-5128</a>
 </p>
+<p align="center">
+  <a href="https://docs.google.com/document/d/1HJE0xTveqWmqw4mJF9t5O-lvo6kY5nFg/edit?usp=sharing&ouid=103540195109809190817&rtpof=true&sd=true"> Resume </a> 
+</p>
 
 ## Education
 ### Georgia Institute of Technology
@@ -18,6 +21,10 @@
 ## Experience
 ### Amazon Software Development Engineer I Intern
 
+
+
+## Projects
+### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
 
 
 ```markdown
