@@ -13,7 +13,7 @@
 </p>
 
 ## Education
-### Georgia Institute of Technology
+<h3> <a href="https://ruokun-niu.github.io/education"> Georgia Institute of Technology </a></h3>
 <p align="right">Bachelor of Science in Computer Science</p>
 <p align="right">Major GPA: 4.0/4.0, Cumulative GPA:3.93/4.0 </p>
 
