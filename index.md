@@ -20,13 +20,15 @@
 
 ## Experience
 #### Amazon Software Development Engineer I Intern
-
+<p align="right">June 2021 - August 2021 </p>
+<p align="right">Connections Scheduling Service Team</p>
 
 
 ## Projects
-### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
+#### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
 
-### "QQ Farm" - Georgia Tech CS 2340 Class Project
+#### "QQ Farm" - Georgia Tech CS 2340 Class Project
+
 
 
 ## Skills
