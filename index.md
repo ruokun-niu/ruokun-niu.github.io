@@ -23,6 +23,9 @@
 <p align="right">June 2021 - August 2021 </p>
 <p align="right">Connections Scheduling Service Team</p>
 
+#### Georgia Institue of Technology Teaching Assistant
+<p align="right">January 2022- Present</p>
+<p align="right">TA CS 4400: Introduction to Database Systems</p>
 
 ## Projects
 #### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
@@ -31,4 +34,9 @@
 
 
 
-## Skills
+## Technical Skills 
+### Programming Language:
+<ul>
+ <li>Python</li>
+ <li>Java</li>
+</ul>
