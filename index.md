@@ -32,6 +32,10 @@
 
 #### "QQ Farm" - Georgia Tech CS 2340 Class Project
 
+#### CS 4641 Machine Learning Class Project
+
+
+
 
 
 ## Technical Skills 
@@ -40,3 +44,4 @@
  <li>Python</li>
  <li>Java</li>
 </ul>
+
