@@ -12,6 +12,8 @@
   <a href="https://drive.google.com/file/d/1StFMwyYExKd1P-TWQqd3tV9irpL5HAwa/view?usp=sharing"> Resume </a> 
 </p>
 
+<img src="./image/GeorgiaTech.jpg" alt="Tommy in GT tshirt">
+
 ## Education
 <h4> <a href="https://ruokun-niu.github.io/education"> Georgia Institute of Technology </a></h4>
 <p align="right">Bachelor of Science in Computer Science</p>

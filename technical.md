@@ -1,4 +1,4 @@
-#### Programming Language:
+#### Programming Languages:
 <ul>
  <li>Python</li>
  <li>Java</li>
@@ -9,11 +9,10 @@
  <li>C</li>
 </ul>
 
-#### Amazon Web Services:
+#### Amazon Web Services (details can be found [here](./amazon.md)):
 <ul>
   <li> AWS Lambda </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> AWS S3</li>
+  <li> AWS Step Functions</li>
+  <li> AWS Simple Notification Service</li>
 </ul>

@@ -1,8 +1,7 @@
 ---
-title: education
+title: Education
 --- 
 
-[comment]:<img src="./image/GeorgiaTech.jpg" alt="Tommy in GT tshirt">
 I am currently a third-year CS student at Georgia Institute of Technology, with thread (concentration) in Intelligence and Information Internetworks. 
 
 
