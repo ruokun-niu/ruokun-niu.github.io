@@ -28,6 +28,9 @@
 <p align="right">TA for CS 4400: Introduction to Database Systems</p>
 
 **Microsoft • Incoming Software Engineer Intern**
+<p align="right"> Starting in May 2022 </p>
+
+
 ## Projects
 #### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
 
@@ -39,23 +42,5 @@
 
 
 
-## Technical Skills 
-#### Programming Language:
-<ul>
- <li>Python</li>
- <li>Java</li>
- <li>JavaScript</li>
- <li>HTML</li>
- <li>CSS</li>
- <li>Swift </li>
- <li>C</li>
-</ul>
+## [Technical Skills](./technical.md)
 
-#### Amazon Web Services:
-<ul>
-  <li> AWS Lambda </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-</ul>
