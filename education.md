@@ -19,12 +19,13 @@ Courses:
   <li>CS 3600 Introduction to Artificial Intelligence</li>
   <li>CS 1331 Introduction to Object Oriented Programming</li>
   <li>MATH 1554 Linear Algebra </li>
-
-  
 </ul>
 
 Clubs and Organization:
 <ul>
+  <li>
+    Georgia tech iOS Development Club 
+  </li>
   <li>
     Georgia Tech Web Development Club
   </li>

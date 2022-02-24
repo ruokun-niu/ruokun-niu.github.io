@@ -19,14 +19,15 @@
 
 
 ## Experience
-#### Amazon Software Development Engineer I Intern
+**Amazon • Software Development Engineer I Intern** 
 <p align="right">June 2021 - August 2021 </p>
 <p align="right">Connections Scheduling Service Team</p>
 
-#### Georgia Institue of Technology Teaching Assistant
+**Georgia Institue of Technology • Teaching Assistant**
 <p align="right">January 2022- Present</p>
 <p align="right">TA for CS 4400: Introduction to Database Systems</p>
 
+**Microsoft • Incoming Software Engineer Intern**
 ## Projects
 #### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
 
@@ -46,6 +47,7 @@
  <li>JavaScript</li>
  <li>HTML</li>
  <li>CSS</li>
+ <li>Swift </li>
  <li>C</li>
 </ul>
 
