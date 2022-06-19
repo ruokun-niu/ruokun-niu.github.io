@@ -37,7 +37,7 @@
 ## Projects
 **[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
 
-**Machine Learning Roulete**
+**Machine Learning Roulette**
 <p align="right">Sandia Sational Laboratories x Georgia Tech</p>
 
 **BeeKeeperGO - Georgia Tech BeeSnap VIP Team**
