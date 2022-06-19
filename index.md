@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruokun-tommy-niu-128466155/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/ruokun-niu-128466155/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>  &nbsp; 
   <a href="https://github.com/ruokun-niu" rel="nofollow noreferrer">
