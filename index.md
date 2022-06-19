@@ -17,11 +17,15 @@
 ## Education
 <h4> <a href="https://ruokun-niu.github.io/education"> Georgia Institute of Technology </a></h4>
 <p align="right">Bachelor of Science in Computer Science</p>
-<p align="right">Major GPA: 4.0/4.0, Cumulative GPA:3.94/4.0 </p>
+<p align="right">Major GPA: 4.0/4.0, Cumulative GPA:3.95/4.0 </p>
 
 
 ## Experience
-**Amazon • Software Development Engineer I Intern** 
+**Microsoft • Software Engineer Intern** 
+<p align="right">May 2022 - July 2022 </p>
+<p align="right">Microsoft Azure Incubations • Team Radius</p>
+
+[**Amazon • Software Development Engineer I Intern**](amazon.md)
 <p align="right">June 2021 - August 2021 </p>
 <p align="right">Connections Scheduling Service Team</p>
 
@@ -29,16 +33,19 @@
 <p align="right">January 2022- Present</p>
 <p align="right">TA for CS 4400: Introduction to Database Systems</p>
 
-**Microsoft • Incoming Software Engineer Intern**
-<p align="right"> Starting in May 2022 </p>
-
 
 ## Projects
-#### BeeKeeperGO - Georgia Tech BeeSnap VIP Team
+**[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
 
-#### "QQ Farm" - Georgia Tech CS 2340 Class Project
+**Machine Learning Roulete**
+<p align="right">Sandia Sational Laboratories x Georgia Tech</p>
 
-#### [House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)
+**BeeKeeperGO - Georgia Tech BeeSnap VIP Team**
+<p align="right">Georgia Tech VIP Program</p>
+
+**"QQ Farm" - Georgia Tech CS 2340 Class Project**
+
+
 
 
 

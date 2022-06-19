@@ -2,6 +2,8 @@
 <ul>
  <li>Python</li>
  <li>Java</li>
+ <li>Golang</li>
+ <li>C#</li>
  <li>JavaScript</li>
  <li>HTML</li>
  <li>CSS</li>
