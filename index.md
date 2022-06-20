@@ -1,8 +1,8 @@
-----
+---
 description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Microsoft, Amazon
-----
+---
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruokun-tommy-niu-128466155/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/ruokun-niu-128466155/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>  &nbsp; 
   <a href="https://github.com/ruokun-niu" rel="nofollow noreferrer">
@@ -40,7 +40,7 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 ## Projects
 **[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
 
-**Machine Learning Roulete**
+**Machine Learning Roulette**
 <p align="right">Sandia Sational Laboratories x Georgia Tech</p>
 
 **BeeKeeperGO - Georgia Tech BeeSnap VIP Team**
