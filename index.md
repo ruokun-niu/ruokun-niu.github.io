@@ -12,7 +12,7 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
   <a> +1(470)-232-5128</a>
 </p>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1StFMwyYExKd1P-TWQqd3tV9irpL5HAwa/view?usp=sharing"> Resume </a> 
+  <a href="https://drive.google.com/file/d/193juwUUgdLXKpJBIBAnpRT1D6zdNGfNu/view?usp=sharing"> Resume </a> 
 </p>
 
 <img src="./image/GeorgiaTech.jpg" alt="Tommy in GT tshirt">
@@ -40,7 +40,7 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 ## Projects
 **[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
 
-**Machine Learning Roulette**
+**[Machine Learning Roulette](mlr.md)**
 <p align="right">Sandia Sational Laboratories x Georgia Tech</p>
 
 **BeeKeeperGO - Georgia Tech BeeSnap VIP Team**
