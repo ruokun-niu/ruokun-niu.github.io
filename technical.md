@@ -11,7 +11,7 @@
  <li>C</li>
 </ul>
 
-#### Amazon Web Services (details can be found [here](./amazon.md)):
+#### Amazon Web Services:
 <ul>
   <li> AWS Lambda </li>
   <li> AWS S3</li>

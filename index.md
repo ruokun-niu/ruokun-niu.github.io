@@ -1,3 +1,6 @@
+----
+description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Microsoft, Amazon
+----
 <p align="center">
   <a href="https://www.linkedin.com/in/ruokun-tommy-niu-128466155/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn

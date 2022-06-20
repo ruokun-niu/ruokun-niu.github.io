@@ -2,7 +2,7 @@
 title: Education
 --- 
 
-I am currently a third-year CS student at Georgia Institute of Technology, with thread (concentration) in Intelligence and Information Internetworks. 
+I am currently a rising Senior CS student at Georgia Institute of Technology, with thread (concentration) in Intelligence and Information Internetworks. 
 
 
 Courses:
@@ -16,6 +16,7 @@ Courses:
   <li>CS 4235 Introduction to Information Security</li>
   <li>CS 2110 Computer Organization and Programming</li>
   <li>CS 3600 Introduction to Artificial Intelligence</li>
+  <li>CS 3630 Introduction to Robotics and Perception </li>
   <li>CS 1331 Introduction to Object Oriented Programming</li>
   <li>MATH 1554 Linear Algebra </li>
 </ul>
