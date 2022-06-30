@@ -11,9 +11,6 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
   <a href="mailto:ruokunniu@gmail.com"> ruokunniu@gmail.com</a>&nbsp; 
   <a> +1(470)-232-5128</a>
 </p>
-<p align="center">
-  <a href="https://drive.google.com/file/d/193juwUUgdLXKpJBIBAnpRT1D6zdNGfNu/view?usp=sharing"> Resume </a> 
-</p>
 
 <img src="./image/GeorgiaTech.jpg" alt="Tommy in GT tshirt">
 
