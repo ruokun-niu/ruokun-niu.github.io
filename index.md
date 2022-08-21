@@ -35,6 +35,8 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 
 
 ## Projects
+**[Calcli](https://github.com/ruokun-niu/calcli)**
+
 **[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
 
 **[Machine Learning Roulette](mlr.md)**
