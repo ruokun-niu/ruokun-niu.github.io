@@ -8,6 +8,7 @@
  <li>HTML</li>
  <li>CSS</li>
  <li>Swift </li>
+ <li>C++</li>
  <li>C</li>
 </ul>
 
