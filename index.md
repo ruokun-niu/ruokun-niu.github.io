@@ -17,7 +17,7 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 ## Education
 <h4> <a href="https://ruokun-niu.github.io/education"> Georgia Institute of Technology </a></h4>
 <p align="right">Bachelor of Science in Computer Science</p>
-<p align="right">Major GPA: 4.0/4.0, Cumulative GPA:3.95/4.0 </p>
+<p align="right">Major GPA: 4.0/4.0, Cumulative GPA:3.96/4.0 </p>
 
 
 ## Experience
@@ -30,22 +30,22 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 <p align="right">Connections Scheduling Service Team</p>
 
 **Georgia Institue of Technology • Teaching Assistant**
-<p align="right">January 2022- Present</p>
+<p align="right">January 2022 - Fall 2022</p>
 <p align="right">TA for CS 4400: Introduction to Database Systems</p>
 
 
 ## Projects
 **[Calcli](https://github.com/ruokun-niu/calcli)**
 
-**[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
-
 **[Machine Learning Roulette](mlr.md)**
 <p align="right">Sandia Sational Laboratories x Georgia Tech</p>
+
+**[House Pricing Prediction - GT CS 4641 Machine Learning Class Project](https://mlgroup16spring2022.github.io/)**
 
 **BeeKeeperGO - Georgia Tech BeeSnap VIP Team**
 <p align="right">Georgia Tech VIP Program</p>
 
-**"QQ Farm" - Georgia Tech CS 2340 Class Project**
+<!-- **"QQ Farm" - Georgia Tech CS 2340 Class Project** -->
 
 
 
