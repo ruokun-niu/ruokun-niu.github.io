@@ -25,7 +25,7 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 <p align="right">May 2022 - July 2022 </p>
 <p align="right">Microsoft Azure Incubations • Team Radius</p>
 
-[**Amazon • Software Development Engineer I Intern**](amazon.md)
+**Amazon • Software Development Engineer I Intern**
 <p align="right">June 2021 - August 2021 </p>
 <p align="right">Connections Scheduling Service Team</p>
 
