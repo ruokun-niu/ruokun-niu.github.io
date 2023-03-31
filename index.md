@@ -12,7 +12,7 @@ description: Software Engineer @ Microsoft
   <a> +1(470)-232-5128</a>
 </p>
 
-<img src="./image/GeorgiaTech.jpg" alt="Tommy in GT tshirt">
+<img src="./image/IMG_9004.jpg" alt="Tommy in GT tshirt">
 
 ## Education
 <h4> <a href="https://ruokun-niu.github.io/education"> Georgia Institute of Technology </a></h4>
