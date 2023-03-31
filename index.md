@@ -1,5 +1,5 @@
 ---
-description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Microsoft, Amazon
+description: Software Engineer @ Microsoft
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/ruokun-niu-128466155/" rel="nofollow noreferrer">
@@ -21,6 +21,10 @@ description: CS @ Georgia Institute of Technology, Software Engineer Intern @ Mi
 
 
 ## Experience
+**Microsoft • Software Engineer** 
+<p align="right">March 2023 - Present </p>
+<p align="right">Microsoft Azure Incubations • Team Drasi</p>
+
 **Microsoft • Software Engineer Intern** 
 <p align="right">May 2022 - July 2022 </p>
 <p align="right">Microsoft Azure Incubations • Team Radius</p>
