@@ -31,6 +31,6 @@ Clubs and Organization:
   </li>
   <li> 
     Georgia Tech Badminton Club
-    <p> &emsp; I am an active member and the safety office of Georgia Tech Badminton Club.</p>
+    <p> &emsp; I am an active member and the safety officer of Georgia Tech Badminton Club.</p>
   </li>
 </ul>
