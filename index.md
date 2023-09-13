@@ -39,6 +39,8 @@ description: Software Engineer @ Microsoft
 
 
 ## Projects
+**[10-pager](https://github.com/ruokun-niu/10-pager/tree/main)**
+
 **[Calcli](https://github.com/ruokun-niu/calcli)**
 
 **[Machine Learning Roulette](mlr.md)**
