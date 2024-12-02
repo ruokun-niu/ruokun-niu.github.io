@@ -1,14 +1,19 @@
 ---
 description: Software Engineer @ Microsoft
 ---
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ruokun-niu-128466155/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>  &nbsp; 
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>  &nbsp;
   <a href="https://github.com/ruokun-niu" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a> &nbsp; 
-  <a href="mailto:ruokunniu@gmail.com"> ruokunniu@gmail.com</a>&nbsp; 
+    <i class="fab fa-github"></i> Github
+  </a> &nbsp;
+  <a href="mailto:ruokunniu@gmail.com"> ruokunniu@gmail.com</a>&nbsp;
   <a> +1(470)-232-5128</a>
 </p>
 
@@ -21,7 +26,7 @@ description: Software Engineer @ Microsoft
 
 
 ## Experience
-**Microsoft • Software Engineer** 
+**Microsoft • Software Engineer II** 
 <p align="right">March 2023 - Present </p>
 <p align="right">Microsoft Azure Incubations • Team Drasi</p>
 
